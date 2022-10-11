@@ -1,4 +1,4 @@
-Working as a postdoc, staff scientist or bioinformatician requires not only strong technical skills, but also the independence to pick up new workflows quickly.  Here in the [Division of Psychiatric Genomics](https://icahn.mssm.edu/about/departments/psychiatry/research/psychiatric-genomics) at the [Icahn School of Medince at Mount Sinai](https://icahn.mssm.edu), we work with a broad range of functional genomic datasets from human brain tissue.  One of the first analyses we run on a dataset is a variance partitioning analysis to identify study variables that are correlated with gene expression.  Many colleagues at Sinai and other institutions use this software pretty regularly in genomics applications.        
+Working as a postdoc, staff scientist or bioinformatician requires not only strong technical skills, but also the independence to pick up new workflows quickly.  Here in the Center for Disease Neurogenomics at the [Icahn School of Medince at Mount Sinai](https://icahn.mssm.edu), we work with a broad range of functional genomic datasets from human brain tissue.  One of the first analyses we run on a dataset is a variance partitioning analysis to identify study variables that are correlated with gene expression.  Many colleagues at Sinai and other institutions use this software pretty regularly in genomics applications.        
 
 Since this analysis is a common task in our work, we have found that candidates who have the independent motivation to get this analysis up and running are likely to be successful in their new role in our group.  
 
@@ -21,7 +21,7 @@ De Jager, et al, 2015. ImmVar project: Insights and design considerations for fu
     [doi:10.1016/j.smim.2015.03.003](https://pubmed.ncbi.nlm.nih.gov/25819567)
  
 # Data for analysis in R
-The data available from [https://hoffmg01.u.hpc.mssm.edu/ImmVar/](https://hoffmg01.u.hpc.mssm.edu/ImmVar/)
+The data available from [https://hoffmg01.hpc.mssm.edu/ImmVar/](https://hoffmg01.hpc.mssm.edu/ImmVar/)
 
 * user: rnaseq
 * password: immvar
