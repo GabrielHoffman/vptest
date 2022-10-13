@@ -1,10 +1,9 @@
-<p align="justify"> 
+
 Working as a postdoc, staff scientist or bioinformatician requires not only strong technical skills, but also the independence to pick up new workflows quickly.  Here in the Center for Disease Neurogenomics at the [Icahn School of Medince at Mount Sinai](https://icahn.mssm.edu), we work with a broad range of functional genomic datasets from human brain tissue.  One of the first analyses we run on a dataset is a variance partitioning analysis to identify study variables that are correlated with gene expression.  Many colleagues at Sinai and other institutions use this software pretty regularly in genomics applications.        
 
 Since this analysis is a common task in our work, we have found that candidates who have the independent motivation to get this analysis up and running are likely to be successful in their new role in our group.  
 
 I’ve given this test to many candidates over the last few years. It is deliberately open-ended, because that is what starting a functional genomics project is often like.  
-</p>
 
 # Assignment 
 1) Read variancePartition [manuscript](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-1323-z) and install the software from the [Bioconductor page](http://bioconductor.org/packages/variancePartition/) 
